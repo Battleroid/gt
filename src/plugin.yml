@@ -1,0 +1,5 @@
+name: Greentext
+version: 1.0
+author: Casey Weed
+main: com.caseyweed.gt.Gt
+api-version: 1.14
